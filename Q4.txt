@@ -1,0 +1,7 @@
+Da seguinte forma:
+Ligue o primeiro interruptor e deixe-o ligado por alguns minutos.
+Desligue o primeiro interruptor e ligue o segundo interruptor.
+Entre na sala das lâmpadas.
+A lâmpada que estiver acesa pertence ao segundo interruptor (último que foi ligado).
+Toque na lâmpada que está apagada.
+Se estiver quente, pertence ao primeiro interruptor. Se estiver fria e desligada, pertence ao terceiro interruptor.

@@ -1,0 +1,1 @@
+A variável SOMA irá ficar sendo incrementada com as variáveis de K de 1 até o seu índice, tendo no final o valor 91.
